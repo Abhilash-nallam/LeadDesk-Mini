@@ -14,7 +14,7 @@ secure dashboard to manage and track leads.
 
 -   **Live Demo:** https://naportfolio.gt.tc/Task/
 -   **Admin Login:** https://naportfolio.gt.tc/Task/admin/login.php
--   **Repository:** https://github.com/abhilash-nallam
+-   **Repository:** [https://github.com/abhilash-nallam](https://github.com/Abhilash-nallam/LeadDesk-Mini)
 
 ------------------------------------------------------------------------
 
