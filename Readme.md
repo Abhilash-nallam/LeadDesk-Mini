@@ -191,6 +191,16 @@ Deployment process included:
 
 ------------------------------------------------------------------------
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4be20e1a-fcbd-4e77-83f5-f51cb3f78894" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aefa390f-d6f2-4e3c-9c59-48d5bb319c00" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/61461be5-5e0e-43ba-8d17-74d96eb503f7" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c74e15ed-fa07-443a-95bc-b9924bf9e122" />
+
+------------------------------------------------------------------------
+
 # 🔮 Future Improvements
 
 -   Multiple Admin Roles
